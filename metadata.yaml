@@ -1,0 +1,30 @@
+_repo: Studying-the-short-story_68291
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Esenwein, J. Berg (Joseph Berg)
+    alias: Esenwein, Joseph Berg
+    birthdate: 1867
+    deathdate: 1946
+    gutenberg_agent_id: '6618'
+    url: http://www.gutenberg.org/2009/agents/6618
+description: ''
+gutenberg_issued: '2022-06-11'
+identifiers:
+  gutenberg: '68291'
+language: en
+pgterms:marc904: https://archive.org/details/studyingshortsto00esenrich/page/n5/mode/2up
+pgterms:marc905: 20201222130744esenwein
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Andrés V. Galia, QMacrocarpa and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :The Home Correspondence School,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Studying the short-story
+url: http://www.gutenberg.org/ebooks/68291
